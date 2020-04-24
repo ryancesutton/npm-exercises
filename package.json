@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/ryancesutton/npm-exercises/issues"
   },
-  "homepage": "https://github.com/ryancesutton/npm-exercises#readme"
+  "homepage": "https://github.com/ryancesutton/npm-exercises#readme",
+  "dependencies": {
+    "@babel/core": "^7.9.0",
+    "@babel/preset-env": "^7.9.5",
+    "babel-loader": "^8.1.0",
+    "babel-preset-env": "^1.7.0",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11"
+  }
 }
